@@ -4,7 +4,7 @@ description: |
   Reflections...
 author:
   - name: David Kang
-    url: https://example.com/norajones
+    url: https://oakhi.github.io
 date: 12-06-2022
 output:
   distill::distill_article:
@@ -19,5 +19,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
+This is first practice post.
 
 

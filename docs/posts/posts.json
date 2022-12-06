@@ -6,14 +6,14 @@
     "author": [
       {
         "name": "David Kang",
-        "url": "https://example.com/norajones"
+        "url": "https://oakhi.github.io"
       }
     ],
     "date": "2022-12-06",
     "categories": [],
-    "contents": "\r\n\r\n\r\n\r\n",
+    "contents": "\r\nThis is first practice post.\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2022-12-06T14:05:28-07:00",
-    "input_file": {}
+    "last_modified": "2022-12-06T14:49:40-07:00",
+    "input_file": "welcome.knit.md"
   }
 ]
