@@ -15,5 +15,22 @@
     "preview": {},
     "last_modified": "2022-12-06T14:49:40-07:00",
     "input_file": "welcome.knit.md"
+  },
+  {
+    "path": "posts/20221206 2nd Post/",
+    "title": "2nd Post",
+    "description": "Reflections...",
+    "author": [
+      {
+        "name": "David Kang",
+        "url": "https://oakhi.github.io"
+      }
+    ],
+    "date": "2022-12-06",
+    "categories": [],
+    "contents": "\r\nThis is 2nd practice post.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-12-06T14:54:15-07:00",
+    "input_file": "2nd_post.knit.md"
   }
 ]
