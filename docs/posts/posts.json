@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "First Entry",
+    "description": "Reflections...",
+    "author": [
+      {
+        "name": "David Kang",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2022-12-06",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-12-06T14:05:28-07:00",
+    "input_file": {}
+  }
+]

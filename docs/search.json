@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this blog",
+      "description": "Some additional details about the blog",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-12-06T14:36:40-07:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Life Begins @",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-12-06T14:36:42-07:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
