@@ -1,22 +1,5 @@
 [
   {
-    "path": "posts/welcome/",
-    "title": "First Entry",
-    "description": "Reflections...",
-    "author": [
-      {
-        "name": "David Kang",
-        "url": "https://oakhi.github.io"
-      }
-    ],
-    "date": "2022-12-06",
-    "categories": [],
-    "contents": "\r\nThis is first practice post.\r\n\r\n\r\n\r\n",
-    "preview": {},
-    "last_modified": "2022-12-06T14:49:40-07:00",
-    "input_file": "welcome.knit.md"
-  },
-  {
     "path": "posts/20221206 2nd Post/",
     "title": "where nature starts and man-made boundaries end",
     "description": "Reflections on Travels...Yamanouchi (山ノ内 / 山之内)",
@@ -26,11 +9,28 @@
         "url": "https://oakhi.github.io"
       }
     ],
-    "date": "2022-10-20",
+    "date": "2022-12-10",
     "categories": [],
     "contents": "\r\nOf all the cities visited in Japan, most memorable is 鎌倉市 (Kamakura City).\r\nLocated about an hour south of Tokyo Station.\r\nKita KamakuraIts combination of temples and shrines that rival any larger destinations.\r\nIn addition, Kamakura and Kita Kamakura (Yamanouchi) has almost a perfect layout of the land and sea.\r\nClose proximity of ocean to the land and mountains nearby.\r\nAnd how man made buildings co-exist with nature.\r\nIt is also hard to distinguish new from the old.\r\nWhere nature starts and man-made boundaries end.\r\nThe spirit of old Kamakura Period pervades the town.\r\nRoad to EnlightenmentReflections at a Restaurant\r\nSaw a gentleman in a reflective mood.\r\nAt that time, thought to myself, he looks very old.\r\n(not many years later, I am approaching his age)\r\nPerhaps he was recalling earlier in life when he visited Kamakura with his young wife.\r\nRecalling a business venture that didn’t go as planned.\r\nThinking of an old friend that recently passed away.\r\nやま本きそば\r\nThere have been periods in my life, when I wished for time to slow down.\r\nSavor the stay at Asian countries that I always wished to visit.\r\nIn equal measure, there have been times, especially some nights, seemingly will not end.\r\nMercifully all these times have passed and I have grown from those experiences.\r\nWhat lessons do I recall from earlier generations?\r\nWhat memories will future generations have of us?\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2022-12-10T15:40:37-07:00",
+    "last_modified": "2022-12-10T15:50:43-07:00",
     "input_file": "2nd_post.knit.md"
+  },
+  {
+    "path": "posts/welcome/",
+    "title": "Life Begins @",
+    "description": "Reflections...Reminders",
+    "author": [
+      {
+        "name": "David Kang",
+        "url": "https://oakhi.github.io"
+      }
+    ],
+    "date": "2022-12-06",
+    "categories": [],
+    "contents": "\r\nLife teaches…\r\nAre we listening…\r\nPracticing…\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-12-10T15:49:57-07:00",
+    "input_file": "welcome.knit.md"
   }
 ]

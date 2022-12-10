@@ -1,7 +1,7 @@
 ---
-title: "First Entry"
+title: "Life Begins @"
 description: |
-  Reflections...
+  Reflections...Reminders
 author:
   - name: David Kang
     url: https://oakhi.github.io
@@ -19,6 +19,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-This is first practice post.
+Life teaches...
+Are we listening...
+Practicing...
 
 
